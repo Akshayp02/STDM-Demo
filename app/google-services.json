@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059970142300",
+    "project_id": "student-management-ddf3d",
+    "storage_bucket": "student-management-ddf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059970142300:android:36883377573cc3e7815699",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8AgQSr8RXJIqNQJiyrRRsekpQ-wjTJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
